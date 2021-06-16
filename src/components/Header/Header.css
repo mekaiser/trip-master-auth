@@ -1,0 +1,28 @@
+.nav-text-logo {
+  font-size: 2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+.nav-text-logo:hover {
+  text-decoration: none;
+  color: white;
+}
+.nav-link-custom {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: white !important;
+}
+.nav-link-custom:hover {
+  text-decoration: none;
+  color: #fec55e !important;
+}
+.nav-link-custom:focus,
+.nav-link-custom:active {
+  color: #fec55e !important;
+}
+.nav-name {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #fec55e !important;
+}

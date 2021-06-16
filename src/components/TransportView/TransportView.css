@@ -1,0 +1,22 @@
+.transport-view-div {
+  background-color: white;
+  margin: 1vw 0 1vw 0;
+  padding: 1vw;
+  border-radius: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.transport-img {
+  width: 25%;
+}
+.transport-people-icon {
+  width: 8%;
+}
+.transport-view-div h3 {
+  font-weight: bold;
+}
+.transport-view-div h4 {
+  font-weight: bold;
+  margin: 0 0.2em 0 0.2em;
+}

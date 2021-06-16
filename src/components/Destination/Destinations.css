@@ -1,0 +1,33 @@
+.destination {
+  margin-top: 4vw;
+  display: flex;
+  justify-content: center;
+}
+.destination-login-form-and-transport-view {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 0 1.5vw 6vw 0;
+  padding: 3vw;
+  border-radius: 2em;
+  width: 30%;
+}
+.destination-map {
+  width: 30vw;
+  margin: 0 0 2vw 1.5vw;
+}
+@media (max-width: 767.98px) {
+  .destination {
+    display: block;
+  }
+  .destination-login-form-and-transport-view {
+    width: 90%;
+    margin: 0 auto 1.5vw auto;
+  }
+  .map-img-div {
+    display: flex;
+    justify-content: center;
+  }
+  .destination-map {
+    width: 90%;
+    margin: 8vw 0 2vw 0;
+  }
+}

@@ -1,0 +1,9 @@
+.login-form {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 2em;
+  margin: 8em 30vw 2vw 30vw;
+  padding: 3vw;
+}
+.login-btn:focus {
+  box-shadow: 0 0 0 0.2rem rgb(236 40 64 / 25%);
+}

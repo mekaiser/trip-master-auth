@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "transport": "Bike",
+    "imgURL": "../images/transport/bike",
+    "charge": "$200"
+  },
+  {
+    "id": 2,
+    "transport": "Car",
+    "imgURL": "../images/transport/car.png",
+    "charge": "$600"
+  },
+  {
+    "id": 3,
+    "transport": "Bus",
+    "imgURL": "../images/transport/bus.png",
+    "charge": "$400"
+  },
+  {
+    "id": 4,
+    "transport": "Train",
+    "imgURL": "../images/transport/train.png",
+    "charge": "$100"
+  }
+]
