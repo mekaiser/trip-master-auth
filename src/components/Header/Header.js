@@ -35,7 +35,7 @@ const Header = () => {
 
   return (
     <nav style={{ margin: "0em 10vw" }}>
-      <Navbar expand="lg">
+      <Navbar expand="lg" variant="dark">
         <Navbar.Brand>
           <Link className="nav-text-logo" to="/home">
             {" "}
