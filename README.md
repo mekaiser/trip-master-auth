@@ -1,6 +1,6 @@
 # Trip Master
 
-![Trip Master](https://raw.githubusercontent.com/mekaiser/enfix-client/main/src/images/enfix.png)
+![Trip Master](https://raw.githubusercontent.com/mekaiser/trip-master-auth/main/src/images/trip-master.png)
 
 Trip Master is a ride service providing website where user can choose a transport among bike, car, bus, train, and pick up the location where they want to go from where.
 
