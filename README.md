@@ -10,9 +10,9 @@ Trip Master is a ride service providing website where user can choose a transpor
 - Login form validation.
 - Firebase Authentication & hosting.
 
-## MADE WITH
+## KEY TECHNOLOGY
 
-- React JS
+- React
 - React Bootstrap
 - Firebase
 - Bootstrap5
